@@ -1,0 +1,22 @@
+RESULTS FOR ARRAY SIZE = 4000000
+Number of runs: 5
+
+QuickSort - Simple Pivot
+Best average time: 0.710363575 with 10.0 as minSize (Best overall)
+Worst average time: 1.306165 with 160.0 as minSize
+
+QuickSort - Median of Three
+Best average time: 0.752880274 with 10.0 as minSize
+Worst average time: 1.370382175 with 160.0 as minSize
+
+QuickSort - Random Pivot
+Best average time: 0.72128565 with 20.0 as minSize
+Worst average time: 1.284820308 with 160.0 as minSize
+
+QuickSort - Median of Five
+Best average time: 0.751885699 with 10.0 as minSize
+Worst average time: 1.338582433 with 160.0 as minSize
+
+MergeSort
+Best average time: 1.776543683 with 10.0 as minSize
+Worst average time: 2.428926699 with 160.0 as minSize (Worst overall)
